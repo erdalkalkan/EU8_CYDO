@@ -1,4 +1,4 @@
-package day42_Exceptions;
+package day32_Constructors.day42_Exceptions;
 
 class FadyException extends RuntimeException{ // custom unchecked exception
 

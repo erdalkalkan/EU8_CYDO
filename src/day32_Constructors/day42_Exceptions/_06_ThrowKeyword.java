@@ -1,4 +1,4 @@
-package day42_Exceptions;
+package day32_Constructors.day42_Exceptions;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

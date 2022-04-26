@@ -1,4 +1,4 @@
-package day42_Exceptions;
+package day32_Constructors.day42_Exceptions;
 
 public class _03_DisadvantageOfThrowsKeyword {
     public static void main(String[] args)  {

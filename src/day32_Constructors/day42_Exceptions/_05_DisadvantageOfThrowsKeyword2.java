@@ -1,4 +1,4 @@
-package day42_Exceptions;
+package day32_Constructors.day42_Exceptions;
 
 public class _05_DisadvantageOfThrowsKeyword2 {
     public static void main(String[] args) throws  InterruptedException {
